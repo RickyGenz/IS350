@@ -1,0 +1,14 @@
+U:\IS 350\A15\A15\bin\Debug\A15.exe.config
+U:\IS 350\A15\A15\bin\Debug\A15.exe
+U:\IS 350\A15\A15\bin\Debug\A15.pdb
+U:\IS 350\A15\A15\bin\Debug\A15.xml
+U:\IS 350\A15\A15\obj\Debug\A15.frm2.resources
+U:\IS 350\A15\A15\obj\Debug\A15.Resources.resources
+U:\IS 350\A15\A15\obj\Debug\A15.vbproj.GenerateResource.Cache
+U:\IS 350\A15\A15\obj\Debug\A15.exe
+U:\IS 350\A15\A15\obj\Debug\A15.xml
+U:\IS 350\A15\A15\obj\Debug\A15.pdb
+U:\IS 350\A15\A15\obj\Debug\A15.frm26.resources
+U:\IS 350\A15\A15\obj\Debug\A15.frm28.resources
+U:\IS 350\A15\A15\obj\Debug\A15.frm30.resources
+U:\IS 350\A15\A15\obj\Debug\A15.frm36.resources

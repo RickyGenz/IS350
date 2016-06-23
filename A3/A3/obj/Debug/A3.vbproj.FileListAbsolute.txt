@@ -1,0 +1,16 @@
+U:\IS 350\A3\A3\bin\Debug\A3.exe.config
+U:\IS 350\A3\A3\bin\Debug\A3.exe
+U:\IS 350\A3\A3\bin\Debug\A3.pdb
+U:\IS 350\A3\A3\bin\Debug\A3.xml
+U:\IS 350\A3\A3\obj\Debug\A3.Form1.resources
+U:\IS 350\A3\A3\obj\Debug\A3.Resources.resources
+U:\IS 350\A3\A3\obj\Debug\A3.vbproj.GenerateResource.Cache
+U:\IS 350\A3\A3\obj\Debug\A3.exe
+U:\IS 350\A3\A3\obj\Debug\A3.xml
+U:\IS 350\A3\A3\obj\Debug\A3.pdb
+U:\IS 350\A3\A3\obj\Debug\A3.frmTextBox.resources
+U:\IS 350\A3\A3\obj\Debug\A3.frmInstructions.resources
+U:\IS 350\A3\A3\obj\Debug\A3.frmLight.resources
+U:\IS 350\A3\A3\obj\Debug\A3.frmTextBoxes.resources
+U:\IS 350\A3\A3\obj\Debug\A3.vbprojResolveAssemblyReference.cache
+U:\IS 350\A3\A3\obj\Debug\A3.Form2.resources

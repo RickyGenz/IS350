@@ -1,0 +1,15 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\A18\bin\Debug\A18.exe.config
+C:\Users\Ricky\Desktop\A18\A18\bin\Debug\A18.exe.config
+C:\Users\Ricky\Desktop\A18\A18\bin\Debug\A18.exe
+C:\Users\Ricky\Desktop\A18\A18\bin\Debug\A18.pdb
+C:\Users\Ricky\Desktop\A18\A18\bin\Debug\A18.xml
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.frm28.resources
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.Resources.resources
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.vbproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.exe
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.xml
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.pdb
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.frm34.resources
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.frm44.resources
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.frmCasino.resources
+C:\Users\Ricky\Desktop\A18\A18\obj\Debug\A18.vbprojResolveAssemblyReference.cache

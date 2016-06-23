@@ -1,0 +1,2 @@
+C:\Users\Ricky\Desktop\C1\CaseOne\bin\Debug\C1.exe.config
+U:\IS 350\C1\CaseOne\bin\Debug\C1.exe.config

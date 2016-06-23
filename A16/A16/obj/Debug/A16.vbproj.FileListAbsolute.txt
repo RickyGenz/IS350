@@ -1,0 +1,26 @@
+U:\IS 350\A16\A16\bin\Debug\A16.exe.config
+U:\IS 350\A16\A16\obj\Debug\A16.frm18.resources
+U:\IS 350\A16\A16\obj\Debug\A16.Resources.resources
+U:\IS 350\A16\A16\obj\Debug\A16.vbproj.GenerateResource.Cache
+U:\IS 350\A16\A16\bin\Debug\A16.exe
+U:\IS 350\A16\A16\bin\Debug\A16.pdb
+U:\IS 350\A16\A16\bin\Debug\A16.xml
+U:\IS 350\A16\A16\obj\Debug\A16.exe
+U:\IS 350\A16\A16\obj\Debug\A16.xml
+U:\IS 350\A16\A16\obj\Debug\A16.pdb
+U:\IS 350\A16\A16\obj\Debug\A16.frm26.resources
+U:\IS 350\A16\A16\obj\Debug\A16.frm28.resources
+C:\Users\Ricky\Desktop\A16\A16\bin\Debug\A16.exe.config
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.exe
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.xml
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.pdb
+C:\Users\Ricky\Desktop\A16\A16\bin\Debug\A16.exe
+C:\Users\Ricky\Desktop\A16\A16\bin\Debug\A16.pdb
+C:\Users\Ricky\Desktop\A16\A16\bin\Debug\A16.xml
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.frm18.resources
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.frm26.resources
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.frm28.resources
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.Resources.resources
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.vbproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.frm32.resources
+C:\Users\Ricky\Desktop\A16\A16\obj\Debug\A16.frmFNL.resources

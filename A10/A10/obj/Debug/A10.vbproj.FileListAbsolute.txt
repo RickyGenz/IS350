@@ -1,0 +1,24 @@
+U:\IS 350\A10\A10\bin\Debug\A10.exe.config
+U:\IS 350\A10\A10\obj\Debug\A10.frm20.resources
+U:\IS 350\A10\A10\obj\Debug\A10.Resources.resources
+U:\IS 350\A10\A10\obj\Debug\A10.vbproj.GenerateResource.Cache
+U:\IS 350\A10\A10\bin\Debug\A10.exe
+U:\IS 350\A10\A10\bin\Debug\A10.pdb
+U:\IS 350\A10\A10\bin\Debug\A10.xml
+U:\IS 350\A10\A10\obj\Debug\A10.exe
+U:\IS 350\A10\A10\obj\Debug\A10.xml
+U:\IS 350\A10\A10\obj\Debug\A10.pdb
+U:\IS 350\A10\A10\obj\Debug\A10.frm24.resources
+U:\IS 350\A10\A10\obj\Debug\A10.frmVM.resources
+C:\Users\Ricky\Desktop\A10\A10\bin\Debug\A10.exe.config
+C:\Users\Ricky\Desktop\A10\A10\obj\Debug\A10.exe
+C:\Users\Ricky\Desktop\A10\A10\obj\Debug\A10.xml
+C:\Users\Ricky\Desktop\A10\A10\obj\Debug\A10.pdb
+C:\Users\Ricky\Desktop\A10\A10\bin\Debug\A10.exe
+C:\Users\Ricky\Desktop\A10\A10\bin\Debug\A10.pdb
+C:\Users\Ricky\Desktop\A10\A10\bin\Debug\A10.xml
+C:\Users\Ricky\Desktop\A10\A10\obj\Debug\A10.frm20.resources
+C:\Users\Ricky\Desktop\A10\A10\obj\Debug\A10.frm24.resources
+C:\Users\Ricky\Desktop\A10\A10\obj\Debug\A10.frmVM.resources
+C:\Users\Ricky\Desktop\A10\A10\obj\Debug\A10.Resources.resources
+C:\Users\Ricky\Desktop\A10\A10\obj\Debug\A10.vbproj.GenerateResource.Cache

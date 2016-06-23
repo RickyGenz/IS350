@@ -1,0 +1,12 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\A19\bin\Debug\A19.exe.config
+C:\Users\Ricky\Desktop\A19\A19\bin\Debug\A19.exe.config
+C:\Users\Ricky\Desktop\A19\A19\obj\Debug\A19.frm24.resources
+C:\Users\Ricky\Desktop\A19\A19\obj\Debug\A19.Resources.resources
+C:\Users\Ricky\Desktop\A19\A19\obj\Debug\A19.vbproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\A19\A19\bin\Debug\A19.exe
+C:\Users\Ricky\Desktop\A19\A19\bin\Debug\A19.pdb
+C:\Users\Ricky\Desktop\A19\A19\bin\Debug\A19.xml
+C:\Users\Ricky\Desktop\A19\A19\obj\Debug\A19.exe
+C:\Users\Ricky\Desktop\A19\A19\obj\Debug\A19.xml
+C:\Users\Ricky\Desktop\A19\A19\obj\Debug\A19.pdb
+C:\Users\Ricky\Desktop\A19\A19\obj\Debug\A19.frm36.resources

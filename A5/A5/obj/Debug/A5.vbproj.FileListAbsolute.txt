@@ -1,0 +1,13 @@
+U:\IS 350\A5\A5\bin\Debug\A5.exe.config
+U:\IS 350\A5\A5\obj\Debug\A5.frmBaseball.resources
+U:\IS 350\A5\A5\obj\Debug\A5.Resources.resources
+U:\IS 350\A5\A5\obj\Debug\A5.vbproj.GenerateResource.Cache
+U:\IS 350\A5\A5\bin\Debug\A5.exe
+U:\IS 350\A5\A5\bin\Debug\A5.pdb
+U:\IS 350\A5\A5\bin\Debug\A5.xml
+U:\IS 350\A5\A5\obj\Debug\A5.exe
+U:\IS 350\A5\A5\obj\Debug\A5.xml
+U:\IS 350\A5\A5\obj\Debug\A5.pdb
+U:\IS 350\A5\A5\obj\Debug\A5.frmPercentage.resources
+U:\IS 350\A5\A5\obj\Debug\A5.frmAreaCode.resources
+U:\IS 350\A5\A5\obj\Debug\A5.frmAnalyzeNumbers.resources

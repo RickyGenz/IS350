@@ -1,0 +1,24 @@
+U:\IS 350\A7\A7\bin\Debug\A7.exe.config
+U:\IS 350\A7\A7\obj\Debug\A7.frm2.resources
+U:\IS 350\A7\A7\obj\Debug\A7.Resources.resources
+U:\IS 350\A7\A7\obj\Debug\A7.vbproj.GenerateResource.Cache
+U:\IS 350\A7\A7\bin\Debug\A7.exe
+U:\IS 350\A7\A7\bin\Debug\A7.pdb
+U:\IS 350\A7\A7\bin\Debug\A7.xml
+U:\IS 350\A7\A7\obj\Debug\A7.exe
+U:\IS 350\A7\A7\obj\Debug\A7.xml
+U:\IS 350\A7\A7\obj\Debug\A7.pdb
+U:\IS 350\A7\A7\obj\Debug\A7.frmTER.resources
+C:\Users\Ricky\Desktop\A7\A7\bin\Debug\A7.exe.config
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.exe
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.xml
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.pdb
+C:\Users\Ricky\Desktop\A7\A7\bin\Debug\A7.exe
+C:\Users\Ricky\Desktop\A7\A7\bin\Debug\A7.pdb
+C:\Users\Ricky\Desktop\A7\A7\bin\Debug\A7.xml
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.frm2.resources
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.frmOrder.resources
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.frmSize.resources
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.frmTER.resources
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.Resources.resources
+C:\Users\Ricky\Desktop\A7\A7\obj\Debug\A7.vbproj.GenerateResource.Cache

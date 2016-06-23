@@ -1,0 +1,55 @@
+U:\CaseOne\CaseOne\bin\Debug\CaseOne.exe.config
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.frmAbout.resources
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.frmMain.resources
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.frmShip.resources
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.Resources.resources
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.vbproj.GenerateResource.Cache
+U:\CaseOne\CaseOne\bin\Debug\CaseOne.exe
+U:\CaseOne\CaseOne\bin\Debug\CaseOne.pdb
+U:\CaseOne\CaseOne\bin\Debug\CaseOne.xml
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.exe
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.xml
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.pdb
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.frmBroadway.resources
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.Additional_Charges_Form.resources
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.Monogramming.resources
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.Telegrams.resources
+U:\CaseOne\CaseOne\obj\Debug\CaseOne.Wrapping.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\bin\Debug\CaseOne.exe.config
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.exe
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.xml
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.pdb
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\bin\Debug\CaseOne.exe
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\bin\Debug\CaseOne.pdb
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\bin\Debug\CaseOne.xml
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.frmAdd.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.frmAbout.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.frmBroad.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.frmMain.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.frmShip.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.frmMono.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.Resources.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.frmTele.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.frmWrap.resources
+C:\Users\Ricky\Desktop\CaseOne\CaseOne\obj\Debug\CaseOne.vbproj.GenerateResource.Cache
+U:\IS 350\CaseOne\CaseOne\CaseOne\bin\Debug\CaseOne.exe.config
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.exe
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.xml
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.pdb
+U:\IS 350\CaseOne\CaseOne\CaseOne\bin\Debug\CaseOne.exe
+U:\IS 350\CaseOne\CaseOne\CaseOne\bin\Debug\CaseOne.pdb
+U:\IS 350\CaseOne\CaseOne\CaseOne\bin\Debug\CaseOne.xml
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.frmAdd.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.frmAbout.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.frmBroad.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.frmMain.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.frmShip.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.frmMono.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.Resources.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.frmTele.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.frmWrap.resources
+U:\IS 350\CaseOne\CaseOne\CaseOne\obj\Debug\CaseOne.vbproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\C1\CaseOne\bin\Debug\CaseOne.exe.config
+C:\Users\Ricky\Desktop\C1\CaseOne\obj\Debug\CaseOne.exe
+C:\Users\Ricky\Desktop\C1\CaseOne\obj\Debug\CaseOne.xml
+C:\Users\Ricky\Desktop\C1\CaseOne\obj\Debug\CaseOne.pdb

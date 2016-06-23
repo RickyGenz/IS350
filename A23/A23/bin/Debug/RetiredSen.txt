@@ -1,0 +1,17 @@
+Ted Stevens,Alaska,R
+Wayne Allard,Colorado,R
+Ken Salazar,Colorado,D
+Joseph Biden,Delaware,D
+Larry Craig,Idaho,R
+Barack Obama,Illinois,D
+Edward Kennedy,Massachusetts,D
+Chuck Hagel,Nebraska,R
+John Sununu,New Hampshire,R
+Pete Domenici,New Mexico,R
+Hillary Clinton,New York,D
+Elizabeth Dole,North Carolina,R
+Gordon Smith,Oregon,R
+Arlen Specter,Pennsylvania,R
+John Warner,Virginia,R
+Norm Coleman,Minnesota,R
+Edward Kennedy,Massachusetts,D

@@ -1,0 +1,26 @@
+U:\IS 350\A12\A12\bin\Debug\A12.exe.config
+U:\IS 350\A12\A12\obj\Debug\A12.frm16.resources
+U:\IS 350\A12\A12\obj\Debug\A12.Resources.resources
+U:\IS 350\A12\A12\obj\Debug\A12.vbproj.GenerateResource.Cache
+U:\IS 350\A12\A12\bin\Debug\A12.exe
+U:\IS 350\A12\A12\bin\Debug\A12.pdb
+U:\IS 350\A12\A12\bin\Debug\A12.xml
+U:\IS 350\A12\A12\obj\Debug\A12.exe
+U:\IS 350\A12\A12\obj\Debug\A12.xml
+U:\IS 350\A12\A12\obj\Debug\A12.pdb
+U:\IS 350\A12\A12\obj\Debug\A12.frm24.resources
+U:\IS 350\A12\A12\obj\Debug\A12.frm22.resources
+U:\IS 350\A12\A12\obj\Debug\A12.frmCalc.resources
+C:\Users\Ricky\Desktop\A12\A12\bin\Debug\A12.exe.config
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.exe
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.xml
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.pdb
+C:\Users\Ricky\Desktop\A12\A12\bin\Debug\A12.exe
+C:\Users\Ricky\Desktop\A12\A12\bin\Debug\A12.pdb
+C:\Users\Ricky\Desktop\A12\A12\bin\Debug\A12.xml
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.frm16.resources
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.frm22.resources
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.frm24.resources
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.frmCalc.resources
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.Resources.resources
+C:\Users\Ricky\Desktop\A12\A12\obj\Debug\A12.vbproj.GenerateResource.Cache

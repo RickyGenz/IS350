@@ -1,0 +1,6 @@
+U:\IS 350\C3\C3\bin\Debug\C3.exe.config
+U:\IS 350\C3\C3\obj\Debug\C3.vbprojResolveAssemblyReference.cache
+U:\IS 350\C3\C3\obj\Debug\C3.frmMain.resources
+U:\IS 350\C3\C3\obj\Debug\C3.frmPassword.resources
+U:\IS 350\C3\C3\obj\Debug\C3.Resources.resources
+U:\IS 350\C3\C3\obj\Debug\C3.vbproj.GenerateResource.Cache

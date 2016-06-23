@@ -1,0 +1,13 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\bin\Debug\A8.exe.config
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.frm24.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.Resources.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.vbproj.GenerateResource.Cache
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\bin\Debug\A8.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\bin\Debug\A8.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\bin\Debug\A8.xml
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.xml
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.frm30.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.frm36.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\A8\obj\Debug\A8.frm38.resources

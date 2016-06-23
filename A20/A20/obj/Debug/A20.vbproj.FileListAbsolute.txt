@@ -1,0 +1,12 @@
+U:\IS 350\A20\A20\bin\Debug\A20.exe.config
+U:\IS 350\A20\A20\obj\Debug\A20.frm10_16.resources
+U:\IS 350\A20\A20\obj\Debug\A20.Resources.resources
+U:\IS 350\A20\A20\obj\Debug\A20.vbproj.GenerateResource.Cache
+U:\IS 350\A20\A20\bin\Debug\A20.exe
+U:\IS 350\A20\A20\bin\Debug\A20.pdb
+U:\IS 350\A20\A20\bin\Debug\A20.xml
+U:\IS 350\A20\A20\obj\Debug\A20.exe
+U:\IS 350\A20\A20\obj\Debug\A20.xml
+U:\IS 350\A20\A20\obj\Debug\A20.pdb
+U:\IS 350\A20\A20\obj\Debug\A20.frm20.resources
+U:\IS 350\A20\A20\obj\Debug\A20.frmISBN.resources

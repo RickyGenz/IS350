@@ -1,0 +1,87 @@
+U:\IS 350\C2\C2\bin\Debug\C2.exe.config
+U:\IS 350\C2\C2\obj\Debug\C2.frmMain.resources
+U:\IS 350\C2\C2\obj\Debug\C2.Resources.resources
+U:\IS 350\C2\C2\obj\Debug\C2.vbproj.GenerateResource.Cache
+U:\IS 350\C2\C2\bin\Debug\C2.exe
+U:\IS 350\C2\C2\bin\Debug\C2.pdb
+U:\IS 350\C2\C2\bin\Debug\C2.xml
+U:\IS 350\C2\C2\obj\Debug\C2.exe
+U:\IS 350\C2\C2\obj\Debug\C2.xml
+U:\IS 350\C2\C2\obj\Debug\C2.pdb
+U:\IS 350\C2\C2\obj\Debug\C2.frmSA.resources
+C:\Users\Ricky\Desktop\C2\C2\bin\Debug\C2.exe.config
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.exe
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.xml
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.pdb
+C:\Users\Ricky\Desktop\C2\C2\bin\Debug\C2.exe
+C:\Users\Ricky\Desktop\C2\C2\bin\Debug\C2.pdb
+C:\Users\Ricky\Desktop\C2\C2\bin\Debug\C2.xml
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.vbprojResolveAssemblyReference.cache
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmMain.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmSA.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmSB.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmSC.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.Resources.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.vbproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frm1040.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmAbout.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmCC.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmCCW.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmSD.resources
+C:\Users\Ricky\Desktop\C2\C2\obj\Debug\C2.frmSE.resources
+E:\C2\C2\bin\Debug\C2.exe.config
+E:\C2\C2\obj\Debug\C2.exe
+E:\C2\C2\obj\Debug\C2.xml
+E:\C2\C2\obj\Debug\C2.pdb
+E:\C2\C2\bin\Debug\C2.exe
+E:\C2\C2\bin\Debug\C2.pdb
+E:\C2\C2\bin\Debug\C2.xml
+E:\C2\C2\obj\Debug\C2.vbprojResolveAssemblyReference.cache
+E:\C2\C2\obj\Debug\C2.frm1040.resources
+E:\C2\C2\obj\Debug\C2.frmAbout.resources
+E:\C2\C2\obj\Debug\C2.frmCC.resources
+E:\C2\C2\obj\Debug\C2.frmCCW.resources
+E:\C2\C2\obj\Debug\C2.frmMain.resources
+E:\C2\C2\obj\Debug\C2.frmSA.resources
+E:\C2\C2\obj\Debug\C2.frmSB.resources
+E:\C2\C2\obj\Debug\C2.frmSC.resources
+E:\C2\C2\obj\Debug\C2.frmSD.resources
+E:\C2\C2\obj\Debug\C2.frmSE.resources
+E:\C2\C2\obj\Debug\C2.Resources.resources
+E:\C2\C2\obj\Debug\C2.vbproj.GenerateResource.Cache
+G:\C2\C2\bin\Debug\C2.exe.config
+G:\C2\C2\obj\Debug\C2.exe
+G:\C2\C2\obj\Debug\C2.xml
+G:\C2\C2\obj\Debug\C2.pdb
+G:\C2\C2\bin\Debug\C2.exe
+G:\C2\C2\bin\Debug\C2.pdb
+G:\C2\C2\bin\Debug\C2.xml
+G:\C2\C2\obj\Debug\C2.vbprojResolveAssemblyReference.cache
+G:\C2\C2\obj\Debug\C2.frm1040.resources
+G:\C2\C2\obj\Debug\C2.frmAbout.resources
+G:\C2\C2\obj\Debug\C2.frmCC.resources
+G:\C2\C2\obj\Debug\C2.frmCCW.resources
+G:\C2\C2\obj\Debug\C2.frmMain.resources
+G:\C2\C2\obj\Debug\C2.frmSA.resources
+G:\C2\C2\obj\Debug\C2.frmSB.resources
+G:\C2\C2\obj\Debug\C2.frmSC.resources
+G:\C2\C2\obj\Debug\C2.frmSD.resources
+G:\C2\C2\obj\Debug\C2.frmSE.resources
+G:\C2\C2\obj\Debug\C2.Resources.resources
+G:\C2\C2\obj\Debug\C2.vbproj.GenerateResource.Cache
+G:\C2\C2\obj\Debug\C2.frmIncome.resources
+E:\C2\C2\obj\Debug\C2.frmIncome.resources
+H:\C2\C2\bin\Debug\C2.exe.config
+H:\C2\C2\obj\Debug\C2.exe
+H:\C2\C2\obj\Debug\C2.xml
+H:\C2\C2\obj\Debug\C2.pdb
+U:\IS 350\C2\C2\obj\Debug\C2.vbprojResolveAssemblyReference.cache
+U:\IS 350\C2\C2\obj\Debug\C2.frm1040.resources
+U:\IS 350\C2\C2\obj\Debug\C2.frmAbout.resources
+U:\IS 350\C2\C2\obj\Debug\C2.frmCC.resources
+U:\IS 350\C2\C2\obj\Debug\C2.frmCCW.resources
+U:\IS 350\C2\C2\obj\Debug\C2.frmIncome.resources
+U:\IS 350\C2\C2\obj\Debug\C2.frmSB.resources
+U:\IS 350\C2\C2\obj\Debug\C2.frmSC.resources
+U:\IS 350\C2\C2\obj\Debug\C2.frmSD.resources
+U:\IS 350\C2\C2\obj\Debug\C2.frmSE.resources

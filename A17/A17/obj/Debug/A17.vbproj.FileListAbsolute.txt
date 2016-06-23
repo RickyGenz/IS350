@@ -1,0 +1,22 @@
+U:\IS 350\A17\A17\bin\Debug\A17.exe.config
+U:\IS 350\A17\A17\obj\Debug\A17.frm3.resources
+U:\IS 350\A17\A17\obj\Debug\A17.Resources.resources
+U:\IS 350\A17\A17\obj\Debug\A17.vbproj.GenerateResource.Cache
+U:\IS 350\A17\A17\bin\Debug\A17.exe
+U:\IS 350\A17\A17\bin\Debug\A17.pdb
+U:\IS 350\A17\A17\bin\Debug\A17.xml
+U:\IS 350\A17\A17\obj\Debug\A17.exe
+U:\IS 350\A17\A17\obj\Debug\A17.xml
+U:\IS 350\A17\A17\obj\Debug\A17.pdb
+C:\Users\Ricky\Desktop\A17\A17\bin\Debug\A17.exe.config
+C:\Users\Ricky\Desktop\A17\A17\obj\Debug\A17.exe
+C:\Users\Ricky\Desktop\A17\A17\obj\Debug\A17.xml
+C:\Users\Ricky\Desktop\A17\A17\obj\Debug\A17.pdb
+C:\Users\Ricky\Desktop\A17\A17\bin\Debug\A17.exe
+C:\Users\Ricky\Desktop\A17\A17\bin\Debug\A17.pdb
+C:\Users\Ricky\Desktop\A17\A17\bin\Debug\A17.xml
+C:\Users\Ricky\Desktop\A17\A17\obj\Debug\A17.frm3.resources
+C:\Users\Ricky\Desktop\A17\A17\obj\Debug\A17.frm4.resources
+C:\Users\Ricky\Desktop\A17\A17\obj\Debug\A17.Resources.resources
+C:\Users\Ricky\Desktop\A17\A17\obj\Debug\A17.vbproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\A17\A17\obj\Debug\A17.frm7.resources

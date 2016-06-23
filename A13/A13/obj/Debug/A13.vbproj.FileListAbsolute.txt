@@ -1,0 +1,26 @@
+U:\IS 350\A13\A13\bin\Debug\A13.exe.config
+U:\IS 350\A13\A13\bin\Debug\A13.exe
+U:\IS 350\A13\A13\bin\Debug\A13.pdb
+U:\IS 350\A13\A13\bin\Debug\A13.xml
+U:\IS 350\A13\A13\obj\Debug\A13.frm30.resources
+U:\IS 350\A13\A13\obj\Debug\A13.Resources.resources
+U:\IS 350\A13\A13\obj\Debug\A13.vbproj.GenerateResource.Cache
+U:\IS 350\A13\A13\obj\Debug\A13.exe
+U:\IS 350\A13\A13\obj\Debug\A13.xml
+U:\IS 350\A13\A13\obj\Debug\A13.pdb
+U:\IS 350\A13\A13\obj\Debug\A13.frm32.resources
+U:\IS 350\A13\A13\obj\Debug\A13.frm34.resources
+U:\IS 350\A13\A13\obj\Debug\A13.frmGuessRight.resources
+C:\Users\Ricky\Desktop\A13\A13\bin\Debug\A13.exe.config
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.exe
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.xml
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.pdb
+C:\Users\Ricky\Desktop\A13\A13\bin\Debug\A13.exe
+C:\Users\Ricky\Desktop\A13\A13\bin\Debug\A13.pdb
+C:\Users\Ricky\Desktop\A13\A13\bin\Debug\A13.xml
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.frm30.resources
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.frm32.resources
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.frm34.resources
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.frmGuessRight.resources
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.Resources.resources
+C:\Users\Ricky\Desktop\A13\A13\obj\Debug\A13.vbproj.GenerateResource.Cache

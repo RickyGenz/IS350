@@ -1,0 +1,16 @@
+U:\IS 350\A4\A4\bin\Debug\A4.exe.config
+U:\IS 350\A4\A4\bin\Debug\A4.exe
+U:\IS 350\A4\A4\bin\Debug\A4.pdb
+U:\IS 350\A4\A4\bin\Debug\A4.xml
+U:\IS 350\A4\A4\obj\Debug\A4.Form1.resources
+U:\IS 350\A4\A4\obj\Debug\A4.Resources.resources
+U:\IS 350\A4\A4\obj\Debug\A4.vbproj.GenerateResource.Cache
+U:\IS 350\A4\A4\obj\Debug\A4.exe
+U:\IS 350\A4\A4\obj\Debug\A4.xml
+U:\IS 350\A4\A4\obj\Debug\A4.pdb
+U:\IS 350\A4\A4\obj\Debug\A4.frmStockPurchase.resources
+U:\IS 350\A4\A4\obj\Debug\A4.frmBreakEvenPoint.resources
+U:\IS 350\A4\A4\obj\Debug\A4.frmSavingsAccount.resources
+U:\IS 350\A4\A4\obj\Debug\A4.frmProfitFromStock.resources
+U:\IS 350\A4\A4\obj\Debug\A4.vbprojResolveAssemblyReference.cache
+U:\IS 350\A4\A4\obj\Debug\A4.frmGasMileage.resources

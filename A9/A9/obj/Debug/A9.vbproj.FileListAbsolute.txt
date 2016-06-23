@@ -1,0 +1,25 @@
+U:\IS 350\A9\A9\bin\Debug\A9.exe.config
+U:\IS 350\A9\A9\obj\Debug\A9.frm20.resources
+U:\IS 350\A9\A9\obj\Debug\A9.Resources.resources
+U:\IS 350\A9\A9\obj\Debug\A9.vbproj.GenerateResource.Cache
+U:\IS 350\A9\A9\bin\Debug\A9.exe
+U:\IS 350\A9\A9\bin\Debug\A9.pdb
+U:\IS 350\A9\A9\bin\Debug\A9.xml
+U:\IS 350\A9\A9\obj\Debug\A9.exe
+U:\IS 350\A9\A9\obj\Debug\A9.xml
+U:\IS 350\A9\A9\obj\Debug\A9.pdb
+U:\IS 350\A9\A9\obj\Debug\A9.frm22.resources
+U:\IS 350\A9\A9\obj\Debug\A9.frm24.resources
+C:\Users\Ricky\Desktop\A9\A9\bin\Debug\A9.exe.config
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.exe
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.xml
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.pdb
+C:\Users\Ricky\Desktop\A9\A9\bin\Debug\A9.exe
+C:\Users\Ricky\Desktop\A9\A9\bin\Debug\A9.pdb
+C:\Users\Ricky\Desktop\A9\A9\bin\Debug\A9.xml
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.frm20.resources
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.frm22.resources
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.frm24.resources
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.frm28.resources
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.Resources.resources
+C:\Users\Ricky\Desktop\A9\A9\obj\Debug\A9.vbproj.GenerateResource.Cache

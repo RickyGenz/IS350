@@ -1,0 +1,13 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\A21\bin\Debug\A21.exe.config
+C:\Users\Ricky\Desktop\A21\A21\bin\Debug\A21.exe.config
+C:\Users\Ricky\Desktop\A21\A21\bin\Debug\A21.exe
+C:\Users\Ricky\Desktop\A21\A21\bin\Debug\A21.pdb
+C:\Users\Ricky\Desktop\A21\A21\bin\Debug\A21.xml
+C:\Users\Ricky\Desktop\A21\A21\obj\Debug\A21.frm16.resources
+C:\Users\Ricky\Desktop\A21\A21\obj\Debug\A21.Resources.resources
+C:\Users\Ricky\Desktop\A21\A21\obj\Debug\A21.vbproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\A21\A21\obj\Debug\A21.exe
+C:\Users\Ricky\Desktop\A21\A21\obj\Debug\A21.xml
+C:\Users\Ricky\Desktop\A21\A21\obj\Debug\A21.pdb
+C:\Users\Ricky\Desktop\A21\A21\obj\Debug\A21.frm32.resources
+C:\Users\Ricky\Desktop\A21\A21\obj\Debug\A21.frmPassword.resources

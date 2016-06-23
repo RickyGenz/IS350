@@ -1,0 +1,32 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\bin\Debug\SuperCode.exe.config
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\obj\Debug\SuperCode.frmTest.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\obj\Debug\SuperCode.Resources.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\obj\Debug\SuperCode.vbproj.GenerateResource.Cache
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\bin\Debug\SuperCode.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\bin\Debug\SuperCode.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\bin\Debug\SuperCode.xml
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\obj\Debug\SuperCode.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\obj\Debug\SuperCode.xml
+C:\Users\Ricky\AppData\Local\Temporary Projects\SuperCode\obj\Debug\SuperCode.pdb
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\bin\Debug\SuperCode.exe.config
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\obj\Debug\SuperCode.exe
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\obj\Debug\SuperCode.xml
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\obj\Debug\SuperCode.pdb
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\bin\Debug\SuperCode.exe
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\bin\Debug\SuperCode.pdb
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\bin\Debug\SuperCode.xml
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\obj\Debug\SuperCode.frmTest.resources
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\obj\Debug\SuperCode.Resources.resources
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\obj\Debug\SuperCode.vbproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\SuperCode\SuperCode\obj\Debug\SuperCode.vbprojResolveAssemblyReference.cache
+C:\Users\Ricky\Documents\SuperCode\SuperCode\bin\Debug\SuperCode.exe.config
+C:\Users\Ricky\Documents\SuperCode\SuperCode\obj\Debug\SuperCode.exe
+C:\Users\Ricky\Documents\SuperCode\SuperCode\obj\Debug\SuperCode.xml
+C:\Users\Ricky\Documents\SuperCode\SuperCode\obj\Debug\SuperCode.pdb
+C:\Users\Ricky\Documents\SuperCode\SuperCode\bin\Debug\SuperCode.exe
+C:\Users\Ricky\Documents\SuperCode\SuperCode\bin\Debug\SuperCode.pdb
+C:\Users\Ricky\Documents\SuperCode\SuperCode\bin\Debug\SuperCode.xml
+C:\Users\Ricky\Documents\SuperCode\SuperCode\obj\Debug\SuperCode.vbprojResolveAssemblyReference.cache
+C:\Users\Ricky\Documents\SuperCode\SuperCode\obj\Debug\SuperCode.frmTest.resources
+C:\Users\Ricky\Documents\SuperCode\SuperCode\obj\Debug\SuperCode.Resources.resources
+C:\Users\Ricky\Documents\SuperCode\SuperCode\obj\Debug\SuperCode.vbproj.GenerateResource.Cache

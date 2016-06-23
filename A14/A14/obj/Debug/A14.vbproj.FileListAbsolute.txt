@@ -1,0 +1,12 @@
+U:\IS 350\A14\A14\bin\Debug\A14.exe.config
+U:\IS 350\A14\A14\obj\Debug\A14.frm10.resources
+U:\IS 350\A14\A14\obj\Debug\A14.Resources.resources
+U:\IS 350\A14\A14\obj\Debug\A14.vbproj.GenerateResource.Cache
+U:\IS 350\A14\A14\bin\Debug\A14.exe
+U:\IS 350\A14\A14\bin\Debug\A14.pdb
+U:\IS 350\A14\A14\bin\Debug\A14.xml
+U:\IS 350\A14\A14\obj\Debug\A14.exe
+U:\IS 350\A14\A14\obj\Debug\A14.xml
+U:\IS 350\A14\A14\obj\Debug\A14.pdb
+U:\IS 350\A14\A14\obj\Debug\A14.frm12.resources
+U:\IS 350\A14\A14\obj\Debug\A14.frmTimer.resources

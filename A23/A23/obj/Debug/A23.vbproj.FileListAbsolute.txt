@@ -1,0 +1,2 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\A23\bin\Debug\A23.exe.config
+C:\Users\Ricky\Desktop\A23\A23\bin\Debug\A23.exe.config

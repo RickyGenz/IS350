@@ -1,0 +1,15 @@
+U:\IS 350\A6\A6\bin\Debug\A6.exe.config
+U:\IS 350\A6\A6\bin\Debug\A6.exe
+U:\IS 350\A6\A6\bin\Debug\A6.pdb
+U:\IS 350\A6\A6\bin\Debug\A6.xml
+U:\IS 350\A6\A6\obj\Debug\A6.frm40.resources
+U:\IS 350\A6\A6\obj\Debug\A6.Resources.resources
+U:\IS 350\A6\A6\obj\Debug\A6.vbproj.GenerateResource.Cache
+U:\IS 350\A6\A6\obj\Debug\A6.exe
+U:\IS 350\A6\A6\obj\Debug\A6.xml
+U:\IS 350\A6\A6\obj\Debug\A6.pdb
+U:\IS 350\A6\A6\obj\Debug\A6.frm68.resources
+U:\IS 350\A6\A6\obj\Debug\A6.frm72.resources
+U:\IS 350\A6\A6\obj\Debug\A6.frm74.resources
+U:\IS 350\A6\A6\obj\Debug\A6.frm76.resources
+U:\IS 350\A6\A6\obj\Debug\A6.frm20.resources
